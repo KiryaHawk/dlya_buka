@@ -1,0 +1,2789 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 667985846036162024,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.364696,
+                    59.88716
+                ]
+            },
+            "properties": {
+                "clusterCaption": "6556 (35731) - ООО \"НАП\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">6556 (35731) - ООО \"НАП\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 192102, Санкт-Петербург г., Бухарестская ул., д.22, к.3, лит.Б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">674</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "6556 (35731) - ООО \"НАП\"",
+                "quantity": 674,
+                "markerType": "partner",
+                "categories": "L,M1,N1",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -6502477304801627192,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.120212,
+                    59.842889
+                ]
+            },
+            "properties": {
+                "clusterCaption": "11260 (77303) - ООО \"ГТОцентр\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">11260 (77303) - ООО \"ГТОцентр\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 198206, Санкт-Петербург г., Петергофское ш., 74, 2, Б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> N1,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">451</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "11260 (77303) - ООО \"ГТОцентр\"",
+                "quantity": 451,
+                "markerType": "partner",
+                "categories": "N1,M1",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4408515862687680727,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.9999,
+                    60.0399
+                ]
+            },
+            "properties": {
+                "clusterCaption": "5400 (31503) - ООО \"Звезда Инвест\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">5400 (31503) - ООО \"Звезда Инвест\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Сестрорецк г., Левашовское ш., д.6, лит.А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1,N1,M3,O2,O4,N2,L,M2,O3,O1,N3</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">761</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "5400 (31503) - ООО \"Звезда Инвест\"",
+                "quantity": 761,
+                "markerType": "partner",
+                "categories": "M1,N1,M3,O2,O4,N2,L,M2,O3,O1,N3",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2693194047467980786,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.449998,
+                    59.928316
+                ]
+            },
+            "properties": {
+                "clusterCaption": "10425 (65142) - ООО \"Техосмотр-78\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">10425 (65142) - ООО \"Техосмотр-78\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 193318, Санкт-Петербург г., Ванеева ул., 10, А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1,N3,L,N2,N1,M3,M2</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">550</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "10425 (65142) - ООО \"Техосмотр-78\"",
+                "quantity": 550,
+                "markerType": "partner",
+                "categories": "M1,N3,L,N2,N1,M3,M2",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1204956779624502410,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.329814,
+                    59.882442
+                ]
+            },
+            "properties": {
+                "clusterCaption": "9991 (63154) - ООО \"Автодиагностика\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">9991 (63154) - ООО \"Автодиагностика\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 196084, Санкт-Петербург г., Рощинская ул., 9 лит.В</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> N2,N3,M1,M2,N1,M3,L</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">422</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "9991 (63154) - ООО \"Автодиагностика\"",
+                "quantity": 422,
+                "markerType": "partner",
+                "categories": "N2,N3,M1,M2,N1,M3,L",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -4931860772684972938,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.470089,
+                    59.960097
+                ]
+            },
+            "properties": {
+                "clusterCaption": "10012 (65128) - ООО \"Диагностика Авто\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">10012 (65128) - ООО \"Диагностика Авто\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 195030, Санкт-Петербург г., Потапова ул., 2, Б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M2,L,M3,O4,N3,O3,N1,O2,O1,N2,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">423</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "10012 (65128) - ООО \"Диагностика Авто\"",
+                "quantity": 423,
+                "markerType": "partner",
+                "categories": "M2,L,M3,O4,N3,O3,N1,O2,O1,N2,M1",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -4591193691363271517,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607884,
+                    59.752837
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12485 (85810) - ООО \"Сто-Питер\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12485 (85810) - ООО \"Сто-Питер\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, вн. тер. г. Санкт-Петербурга, г. Колпино, ул. Культуры, д.21, стр.1</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">367</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12485 (85810) - ООО \"Сто-Питер\"",
+                "quantity": 367,
+                "markerType": "partner",
+                "categories": "L,M1,N1",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2631227120881406823,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.282223,
+                    59.891854
+                ]
+            },
+            "properties": {
+                "clusterCaption": "8909 (56264) - ООО \"Техосмотр СПб\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">8909 (56264) - ООО \"Техосмотр СПб\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Маршала Говорова ул.,д.3, лит А, пом.3-Н-8-Н, 26-Н-40-Н</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> N2,M2,M3,O1,O4,M1,N3,L,O2,N1,O3</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">582</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "8909 (56264) - ООО \"Техосмотр СПб\"",
+                "quantity": 582,
+                "markerType": "partner",
+                "categories": "N2,M2,M3,O1,O4,M1,N3,L,O2,N1,O3",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -7501950256663054574,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.439493,
+                    59.97766
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15106 (85524) - ООО \"Техосмотр\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15106 (85524) - ООО \"Техосмотр\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г. Санкт-Петербург, пр-кт Екатерининский, д.3, литера Б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">416</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15106 (85524) - ООО \"Техосмотр\"",
+                "quantity": 416,
+                "markerType": "partner",
+                "categories": "L,M1,N1",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -50018776566949503,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.323971,
+                    60.062849
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15229 (86574) - ООО \"ТЕХОСМОТР\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15229 (86574) - ООО \"ТЕХОСМОТР\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., ул. Прокофьева, д.10, лит.А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">700</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15229 (86574) - ООО \"ТЕХОСМОТР\"",
+                "quantity": 700,
+                "markerType": "partner",
+                "categories": "L,M1,N1",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -636481389777705376,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.363317,
+                    59.97918
+                ]
+            },
+            "properties": {
+                "clusterCaption": "11069 (69711) - ООО \"Диагностика-78\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">11069 (69711) - ООО \"Диагностика-78\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 194100, Санкт-Петербург г., Литовская ул., 16, Б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> N1,N2,N3,M3,M2,M1,L</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">477</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "11069 (69711) - ООО \"Диагностика-78\"",
+                "quantity": 477,
+                "markerType": "partner",
+                "categories": "N1,N2,N3,M3,M2,M1,L",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8368286081980776174,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.304707,
+                    59.826089
+                ]
+            },
+            "properties": {
+                "clusterCaption": "9486 (59896) - ООО \"ФортаПолис\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">9486 (59896) - ООО \"ФортаПолис\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 196240, Санкт-Петербург г., 6-й Предпортовый проезд., дом 10, литера Б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1,M2,M3,L,N1,N2,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">370</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "9486 (59896) - ООО \"ФортаПолис\"",
+                "quantity": 370,
+                "markerType": "partner",
+                "categories": "M1,M2,M3,L,N1,N2,N3,O1,O2,O3,O4",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -5247397642701352950,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.318855,
+                    60.063919
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15910 (86630) - ООО \"СИНЕРГИЯ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15910 (86630) - ООО \"СИНЕРГИЯ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Композиторов ул., 28, лит.А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">258</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15910 (86630) - ООО \"СИНЕРГИЯ\"",
+                "quantity": 258,
+                "markerType": "partner",
+                "categories": "L,M1",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6073087417817136283,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.365679,
+                    59.964217
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15229 (85534) - ООО \"ТЕХОСМОТР\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15229 (85534) - ООО \"ТЕХОСМОТР\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г. Санкт-Петербург, ул.Минеральная, д.30</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">295</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15229 (85534) - ООО \"ТЕХОСМОТР\"",
+                "quantity": 295,
+                "markerType": "partner",
+                "categories": "L,M1",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7466841450762829208,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5504,
+                    59.6549
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12485 (80719) - ООО \"Сто-Питер\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12485 (80719) - ООО \"Сто-Питер\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Тосненский р-н., Федоровское д., ул. Промышленная, д.19, 1</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">343</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12485 (80719) - ООО \"Сто-Питер\"",
+                "quantity": 343,
+                "markerType": "partner",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -4817363619303153863,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.393288,
+                    60.064347
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14323 (83879) - ООО \"Автотехосмотр\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14323 (83879) - ООО \"Автотехосмотр\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Всеволожский м.р-н, Бугровское с.п..п Бугры, Петровский б-р, стр.35, к.2</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">844</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14323 (83879) - ООО \"Автотехосмотр\"",
+                "quantity": 844,
+                "markerType": "partner",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4",
+                "partner": "1.0"
+            },
+            "options": {
+                "preset": "islands#greenIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 233922401190847267,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.467288,
+                    59.964954
+                ]
+            },
+            "properties": {
+                "clusterCaption": "8188 (52582) - ООО \"ТЕХОСМОТР\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">8188 (52582) - ООО \"ТЕХОСМОТР\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Химиков ул., 2, Е</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,O1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">233</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "8188 (52582) - ООО \"ТЕХОСМОТР\"",
+                "quantity": 233,
+                "markerType": "nasha",
+                "categories": "L,M1,N1,N2,M2,O1",
+                "nasha": "1.0"
+            },
+            "options": {
+                "preset": "islands#yellowIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -1335461441879497429,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.476235,
+                    59.966944
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15177 (85434) - ООО \"ТЕХОСМОТР\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15177 (85434) - ООО \"ТЕХОСМОТР\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г.Санкт-Петербург, ш.Революции, д.114, литера А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">216</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15177 (85434) - ООО \"ТЕХОСМОТР\"",
+                "quantity": 216,
+                "markerType": "nasha",
+                "categories": "L,M1",
+                "nasha": "1.0"
+            },
+            "options": {
+                "preset": "islands#yellowIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3482427451563948151,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.509576,
+                    59.815213
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14368 (83959) - ООО \"ОСАГО",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14368 (83959) - ООО \"ОСАГО</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 192177, поселок Петро-Славянка, дорога на Петро-Славянку, д.7, литер Ч</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">477</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14368 (83959) - ООО \"ОСАГО",
+                "quantity": 477,
+                "markerType": "nasha",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4",
+                "nasha": "1.0"
+            },
+            "options": {
+                "preset": "islands#yellowIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -4330234014068689388,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.251764,
+                    59.996751
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14513 (84232) - ООО \"ТЕХОСМОТРОФФ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14513 (84232) - ООО \"ТЕХОСМОТРОФФ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, вн.тер.г.муниципальный округ №65, г. Санкт-Петербург, ул. Оптиков, д.1, к.3, стр.1</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">590</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14513 (84232) - ООО \"ТЕХОСМОТРОФФ\"",
+                "quantity": 590,
+                "markerType": "nasha",
+                "categories": "L,M1",
+                "nasha": "1.0"
+            },
+            "options": {
+                "preset": "islands#yellowIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -596960721735986019,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.299725,
+                    59.877186
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15175 (85432) - ООО \"ТЕХОСМОТР\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15175 (85432) - ООО \"ТЕХОСМОТР\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г.Санкт-Петербург, ул.Кубинская, д.4, к.2, литера К</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">182</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15175 (85432) - ООО \"ТЕХОСМОТР\"",
+                "quantity": 182,
+                "markerType": "nasha",
+                "categories": "L,M1,N1",
+                "nasha": "1.0"
+            },
+            "options": {
+                "preset": "islands#yellowIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -3915394069008685422,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.472311,
+                    59.957718
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12892 (81872) - ООО \"ОПЕРАТОР ТЕХНИЧЕСКОГО ОСМОТРА\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12892 (81872) - ООО \"ОПЕРАТОР ТЕХНИЧЕСКОГО ОСМОТРА\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 195279, Санкт-Петербург г., Ириновский пр-кт., 22, 3, лит.А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">417</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12892 (81872) - ООО \"ОПЕРАТОР ТЕХНИЧЕСКОГО ОСМОТРА\"",
+                "quantity": 417,
+                "markerType": "nasha",
+                "categories": "L,M1",
+                "nasha": "1.0"
+            },
+            "options": {
+                "preset": "islands#yellowIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -9043800035470691092,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.359158,
+                    59.984463
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15352 (85723) - ООО \"ТО78\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15352 (85723) - ООО \"ТО78\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Полюстровский пр-кт., д.74, лит.Б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">350</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15352 (85723) - ООО \"ТО78\"",
+                "quantity": 350,
+                "markerType": "nasha",
+                "categories": "L,M1,N1",
+                "nasha": "1.0"
+            },
+            "options": {
+                "preset": "islands#yellowIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1483100055053937406,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.335599,
+                    59.903061
+                ]
+            },
+            "properties": {
+                "clusterCaption": "1990 (30359) - ООО \"Полюс\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">1990 (30359) - ООО \"Полюс\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 196084, Санкт-Петербург г., Черниговская ул., 14, лит.А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">518</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "1990 (30359) - ООО \"Полюс\"",
+                "quantity": 518,
+                "markerType": "nasha",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O3,O4",
+                "nasha": "1.0"
+            },
+            "options": {
+                "preset": "islands#yellowIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6335063872891061401,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.395648,
+                    59.884189
+                ]
+            },
+            "properties": {
+                "clusterCaption": "120 (28455) - ООО \"Корпорация \"Снежный Барс\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">120 (28455) - ООО \"Корпорация \"Снежный Барс\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 192236, Санкт-Петербург г., Софийская ул., д.8, корп.5, лит.А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> O2,M1,N2,O3,O1,N3,M3,L,N1,O4,M2</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">74</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "120 (28455) - ООО \"Корпорация \"Снежный Барс\"",
+                "quantity": 74,
+                "markerType": "other",
+                "categories": "O2,M1,N2,O3,O1,N3,M3,L,N1,O4,M2"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -4551731527810247906,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.451458,
+                    59.962363
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14844 (84865) - ООО \"Управление механизации\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14844 (84865) - ООО \"Управление механизации\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 195248, г.Санкт-Петербург, пер.Уманский, д.71, Литер Ч</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">1</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14844 (84865) - ООО \"Управление механизации\"",
+                "quantity": 1,
+                "markerType": "other",
+                "categories": "M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -147080167831229586,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.381109,
+                    59.973234
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14727 (84648) - ООО \"Клубный Гараж\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14727 (84648) - ООО \"Клубный Гараж\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г. Санкт-Петербург, Полюстровский пр-кт, д.59, литер Я</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">33</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14727 (84648) - ООО \"Клубный Гараж\"",
+                "quantity": 33,
+                "markerType": "other",
+                "categories": "M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -6788490953188806040,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.354313,
+                    59.868606
+                ]
+            },
+            "properties": {
+                "clusterCaption": "5273 (86943) - АО \"РОЛЬФ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">5273 (86943) - АО \"РОЛЬФ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 196105, Санкт-Петербург г., Витебский пр-кт., 17, 6, лит.0</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">18</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "5273 (86943) - АО \"РОЛЬФ\"",
+                "quantity": 18,
+                "markerType": "other",
+                "categories": "M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1841393754559018640,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.576643,
+                    59.736626
+                ]
+            },
+            "properties": {
+                "clusterCaption": "13910 (83156) - ООО \"Ижора-Автосервис\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">13910 (83156) - ООО \"Ижора-Автосервис\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 196657, Колпино г., Трудящихся б-р., 16, А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,O1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">13</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "13910 (83156) - ООО \"Ижора-Автосервис\"",
+                "quantity": 13,
+                "markerType": "other",
+                "categories": "L,M1,O1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3285871124346982699,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.21151,
+                    60.1155
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15865 (86562) - ООО \"Авторесурс\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15865 (86562) - ООО \"Авторесурс\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Парголово п., Ленинградская ул., 99, лит.В</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">143</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15865 (86562) - ООО \"Авторесурс\"",
+                "quantity": 143,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6832113170272848555,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.376045,
+                    60.055676
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12728 (81012) - ООО \"ТЕХЦЕНТРЫ СОТРАНС\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12728 (81012) - ООО \"ТЕХЦЕНТРЫ СОТРАНС\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Верхняя ул., 16, А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">55</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12728 (81012) - ООО \"ТЕХЦЕНТРЫ СОТРАНС\"",
+                "quantity": 55,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -4892857663250200730,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.278626,
+                    60.030761
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14856 (84917) - ИП Зинченко А. А.",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14856 (84917) - ИП Зинченко А. А.</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г.Санкт-Петербург, ул.Репищева, д.14, лит.АН</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">7</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14856 (84917) - ИП Зинченко А. А.",
+                "quantity": 7,
+                "markerType": "other",
+                "categories": "L,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4315324482951477202,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.443036,
+                    59.976455
+                ]
+            },
+            "properties": {
+                "clusterCaption": "7478 (50520) - ФКУ \"ЦХиСО ГУ МВД России по г. Санкт-Петербургу и Ленинградской области\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">7478 (50520) - ФКУ \"ЦХиСО ГУ МВД России по г. Санкт-Петербургу и Ленинградской области\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Маршала</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> N2,O4,M3,O1,N3,O2,N1,O3,M1,L,M2</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">163</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "7478 (50520) - ФКУ \"ЦХиСО ГУ МВД России по г. Санкт-Петербургу и Ленинградской области\"",
+                "quantity": 163,
+                "markerType": "other",
+                "categories": "N2,O4,M3,O1,N3,O2,N1,O3,M1,L,M2"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6318283871829428099,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.236027,
+                    60.042143
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15189 (85457) - ООО \"Паратех\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15189 (85457) - ООО \"Паратех\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г. Санкт-Петербург, ул. Парашютная, уч.45, (северо-западнее пересечения с Плесецкой улицей)</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">746</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15189 (85457) - ООО \"Паратех\"",
+                "quantity": 746,
+                "markerType": "other",
+                "categories": "L,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -1559025828413241992,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.279083,
+                    59.923838
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15779 (86440) - ООО \"АВТОПОЧТА\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15779 (86440) - ООО \"АВТОПОЧТА\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г.Санкт-Петербург, пер.Матисов, д.4, литера А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">163</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15779 (86440) - ООО \"АВТОПОЧТА\"",
+                "quantity": 163,
+                "markerType": "other",
+                "categories": "L,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -2028250508798131084,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.137184,
+                    59.780998
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15212 (85497) - ИП Анисимов А. О.",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15212 (85497) - ИП Анисимов А. О.</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г.Санкт-Петербург, тер.Горелово, ш. Аннинское, уч. 8</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">57</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15212 (85497) - ИП Анисимов А. О.",
+                "quantity": 57,
+                "markerType": "other",
+                "categories": "L,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2562227949200849968,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.388506,
+                    59.903646
+                ]
+            },
+            "properties": {
+                "clusterCaption": "6739 (35876) - ООО \"ТО178.РУ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">6739 (35876) - ООО \"ТО178.РУ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 192019, Санкт-Петербург г., Седова ул., 5, литера А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">648</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "6739 (35876) - ООО \"ТО178.РУ\"",
+                "quantity": 648,
+                "markerType": "other",
+                "categories": "L,M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6193784583242903637,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.46268,
+                    59.961812
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15628 (86191) - ИП Тер-Данелян Д. А.",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15628 (86191) - ИП Тер-Данелян Д. А.</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Революции ш., уч.53, (у дома 69</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">633</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15628 (86191) - ИП Тер-Данелян Д. А.",
+                "quantity": 633,
+                "markerType": "other",
+                "categories": "L,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8179709582508412536,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.285298,
+                    59.859108
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12229 (81471) - ЗАО \"Евротрансконтроль\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12229 (81471) - ЗАО \"Евротрансконтроль\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Народного Ополчения пр-кт., 2а, литера А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">281</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12229 (81471) - ЗАО \"Евротрансконтроль\"",
+                "quantity": 281,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -6299500759059690038,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.350471,
+                    59.827026
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15077 (85284) - ООО \"Норд-Стар\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15077 (85284) - ООО \"Норд-Стар\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Московское ш., д.13, литера АК</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">913</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15077 (85284) - ООО \"Норд-Стар\"",
+                "quantity": 913,
+                "markerType": "other",
+                "categories": "L,M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3002493030300736037,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.7849,
+                    59.8958
+                ]
+            },
+            "properties": {
+                "clusterCaption": "1123 (29727) - ООО \"ВАЛ Трейд\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">1123 (29727) - ООО \"ВАЛ Трейд\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 198412, Ломоносов г., Федюнинского ул., д 2, лит Т</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,O3,M3,N1,N2,M2,M1,O1,O4,N3,O2</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">424</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "1123 (29727) - ООО \"ВАЛ Трейд\"",
+                "quantity": 424,
+                "markerType": "other",
+                "categories": "L,O3,M3,N1,N2,M2,M1,O1,O4,N3,O2"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -9166092623907056785,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607346,
+                    59.771133
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14870 (84916) - ООО \"Авто-Гамма\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14870 (84916) - ООО \"Авто-Гамма\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г.Колпино, ул.Севастьянова, д.24, литера А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">269</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14870 (84916) - ООО \"Авто-Гамма\"",
+                "quantity": 269,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -4114474147345106623,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.312851,
+                    60.050298
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15424 (85849) - ООО \"Центр ДК\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15424 (85849) - ООО \"Центр ДК\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Хошимина ул., 1, лит.А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">333</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15424 (85849) - ООО \"Центр ДК\"",
+                "quantity": 333,
+                "markerType": "other",
+                "categories": "L,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -8636913406894849734,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.368127,
+                    59.888159
+                ]
+            },
+            "properties": {
+                "clusterCaption": "2113 (32274) - ООО \"АВТОЭКСПЕРТ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">2113 (32274) - ООО \"АВТОЭКСПЕРТ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 192102, Санкт-Петербург г., Бухарестская ул., д. 22, кор</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> N1,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">465</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "2113 (32274) - ООО \"АВТОЭКСПЕРТ\"",
+                "quantity": 465,
+                "markerType": "other",
+                "categories": "N1,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6347094234692489397,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.45843,
+                    59.894047
+                ]
+            },
+            "properties": {
+                "clusterCaption": "821 (29372) - ООО \"СТК ЦОБДД\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">821 (29372) - ООО \"СТК ЦОБДД\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 193230, Санкт-Петербург г., Дальневосточный пр-кт., д 41,лит Б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> N3,M2,O2,M3,N2,L,O4,O1,O3,N1,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">263</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "821 (29372) - ООО \"СТК ЦОБДД\"",
+                "quantity": 263,
+                "markerType": "other",
+                "categories": "N3,M2,O2,M3,N2,L,O4,O1,O3,N1,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -7358544281757100844,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.384285,
+                    59.903374
+                ]
+            },
+            "properties": {
+                "clusterCaption": "6739 (84366) - ООО \"ТО178.РУ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">6739 (84366) - ООО \"ТО178.РУ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 192019, Санкт-Петербург г., Седова ул., 1, В</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">376</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "6739 (84366) - ООО \"ТО178.РУ\"",
+                "quantity": 376,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -7327318924469648543,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.281264,
+                    59.863594
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12676 (80940) - ООО \"ЭКСПЕРТ-СТРАХОВАНИЕ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12676 (80940) - ООО \"ЭКСПЕРТ-СТРАХОВАНИЕ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 198152, Санкт-Петербург г., Краснопутиловская ул., 65, А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">1327</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12676 (80940) - ООО \"ЭКСПЕРТ-СТРАХОВАНИЕ\"",
+                "quantity": 1327,
+                "markerType": "other",
+                "categories": "L,M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -7154600882606761394,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.441179,
+                    59.698334
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14720 (84597) - ООО \"НИКОМ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14720 (84597) - ООО \"НИКОМ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, внутригородское м.образование г.фед.значения Санкт-Петербурга, п.Тярлево, Фильтровское</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">71</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14720 (84597) - ООО \"НИКОМ\"",
+                "quantity": 71,
+                "markerType": "other",
+                "categories": "M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 844010092975430154,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.422648,
+                    59.913497
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14302 (83829) - ООО \"СТК\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14302 (83829) - ООО \"СТК\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 193091, Санкт-Петербург г., Октябрьская наб., 6, литера АБ, пом.1-Н,2-</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">450</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14302 (83829) - ООО \"СТК\"",
+                "quantity": 450,
+                "markerType": "other",
+                "categories": "L,M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9085853058044919629,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2702,
+                    59.8572
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14391 (84013) - ООО \"ТЕХОСМОТР\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14391 (84013) - ООО \"ТЕХОСМОТР\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г. Санкт-Петербург, ул. Автомобильная, д.8, литера В</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">248</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14391 (84013) - ООО \"ТЕХОСМОТР\"",
+                "quantity": 248,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -5954368810117239522,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.358552,
+                    59.891145
+                ]
+            },
+            "properties": {
+                "clusterCaption": "13180 (81619) - ООО \"ДЦ \"АвтоГарант\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">13180 (81619) - ООО \"ДЦ \"АвтоГарант\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, в.м.об.Санкт-Петербурга,м.о.Волковское, г.Санкт-Петербург, ул.Бухарестская, з/у 1к</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,O1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">600</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "13180 (81619) - ООО \"ДЦ \"АвтоГарант\"",
+                "quantity": 600,
+                "markerType": "other",
+                "categories": "L,M1,N1,O1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -8076595403637914799,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.238083,
+                    60.042119
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15339 (85703) - ООО \"Автотехэксперт\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15339 (85703) - ООО \"Автотехэксперт\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г. Санкт-Петербург, ул. Парашютная, уч.36 (юго-западнее дома 57, литера Я по Заповедной</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">562</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15339 (85703) - ООО \"Автотехэксперт\"",
+                "quantity": 562,
+                "markerType": "other",
+                "categories": "L,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -7464802954657032258,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.338699,
+                    59.872972
+                ]
+            },
+            "properties": {
+                "clusterCaption": "661 (29180) - ООО \"Буборг-Сервис\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">661 (29180) - ООО \"Буборг-Сервис\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 196105, Санкт-Петербург г., Юрия Гагарина пр-кт., 2, 4, А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">258</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "661 (29180) - ООО \"Буборг-Сервис\"",
+                "quantity": 258,
+                "markerType": "other",
+                "categories": "L,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7280938188289940050,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.385694,
+                    59.991681
+                ]
+            },
+            "properties": {
+                "clusterCaption": "13328 (81850) - ООО \"Техосмотр\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">13328 (81850) - ООО \"Техосмотр\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Бестужевская ул., 2, 4, лит. Б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">835</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "13328 (81850) - ООО \"Техосмотр\"",
+                "quantity": 835,
+                "markerType": "other",
+                "categories": "L,M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -9061995122186980447,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.25197,
+                    59.865658
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15101 (85323) - ООО \"Безопасность движения\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15101 (85323) - ООО \"Безопасность движения\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 198096, Санкт-Петербург г., Кронштадтская ул., 17, 2, лит.А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,O1,O2</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">48</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15101 (85323) - ООО \"Безопасность движения\"",
+                "quantity": 48,
+                "markerType": "other",
+                "categories": "L,M1,N1,O1,O2"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -693325492084394505,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.236937,
+                    59.995766
+                ]
+            },
+            "properties": {
+                "clusterCaption": "11982 (81647) - ООО \"Автофокс\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">11982 (81647) - ООО \"Автофокс\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Мебельный проезд., д. 10, литера Е</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">681</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "11982 (81647) - ООО \"Автофокс\"",
+                "quantity": 681,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -1369550503226929558,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.374778,
+                    59.885629
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12366 (80566) - ООО \"РЕШЕНИЯ УСПЕХА\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12366 (80566) - ООО \"РЕШЕНИЯ УСПЕХА\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 192102, Санкт-Петербург г., Салова ул., 70, А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">656</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12366 (80566) - ООО \"РЕШЕНИЯ УСПЕХА\"",
+                "quantity": 656,
+                "markerType": "other",
+                "categories": "M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7270705711039258942,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.40093,
+                    59.811962
+                ]
+            },
+            "properties": {
+                "clusterCaption": "11893 (79831) - ООО \"Центр Автосервис\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">11893 (79831) - ООО \"Центр Автосервис\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Шушары п., Ленина ул., 1б, лит.Б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">84</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "11893 (79831) - ООО \"Центр Автосервис\"",
+                "quantity": 84,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6977914375781419780,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3981,
+                    59.9044
+                ]
+            },
+            "properties": {
+                "clusterCaption": "9161 (59226) - ООО \"Меркурий\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">9161 (59226) - ООО \"Меркурий\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 192019, Санкт-Петербург г., 2-й Луч ул., д.13, Лит.М</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> N3,O1,N2,N1,M3,M2,M1,L,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">366</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "9161 (59226) - ООО \"Меркурий\"",
+                "quantity": 366,
+                "markerType": "other",
+                "categories": "N3,O1,N2,N1,M3,M2,M1,L,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3882021096693257231,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.279208,
+                    60.028539
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12389 (81810) - ООО \"СТО-Д\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12389 (81810) - ООО \"СТО-Д\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 197375, Санкт-Петербург г., Репищева ул., 14, АЦ</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,O1,O2</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">208</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12389 (81810) - ООО \"СТО-Д\"",
+                "quantity": 208,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,O1,O2"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -2378399045660235138,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.272725,
+                    59.994749
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14328 (83913) - ООО \"Техосмотр\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14328 (83913) - ООО \"Техосмотр\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 197183, Санкт-Петербург г., Полевая Сабировская ул., 48, литера Б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">604</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14328 (83913) - ООО \"Техосмотр\"",
+                "quantity": 604,
+                "markerType": "other",
+                "categories": "L,M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -696581223239198288,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.386584,
+                    59.991352
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14842 (85046) - ООО \"Техосмотр\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14842 (85046) - ООО \"Техосмотр\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г.Санкт-Петербург, ул. Бестужевская, д.4, корп.2</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">296</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14842 (85046) - ООО \"Техосмотр\"",
+                "quantity": 296,
+                "markerType": "other",
+                "categories": "L,M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -3473308778796725202,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.467012,
+                    59.838115
+                ]
+            },
+            "properties": {
+                "clusterCaption": "5657 (31806) - ООО \"Автоспея\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">5657 (31806) - ООО \"Автоспея\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 192289, Санкт-Петербург г., Грузовой проезд., 16</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">1135</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "5657 (31806) - ООО \"Автоспея\"",
+                "quantity": 1135,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7215953947772687544,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.322148,
+                    59.989884
+                ]
+            },
+            "properties": {
+                "clusterCaption": "13877 (83205) - ООО \"Технический центр \"Геркон\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">13877 (83205) - ООО \"Технический центр \"Геркон\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г. Санкт-Петербург, ул. Земледельческая, уч. 4, у дома 5</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">429</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "13877 (83205) - ООО \"Технический центр \"Геркон\"",
+                "quantity": 429,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4792984968411255859,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.478417,
+                    59.765996
+                ]
+            },
+            "properties": {
+                "clusterCaption": "13493 (82127) - ООО \"Лаборатория\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">13493 (82127) - ООО \"Лаборатория\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Шушары п., Московское ш., 231, литер Ш</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">532</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "13493 (82127) - ООО \"Лаборатория\"",
+                "quantity": 532,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5407753701184906565,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.800068,
+                    59.866422
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15934 (86671) - ООО \"Эксперт-ТО\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15934 (86671) - ООО \"Эксперт-ТО\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Петергоф г., Гостилицкое ш., 137, литер А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">458</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15934 (86671) - ООО \"Эксперт-ТО\"",
+                "quantity": 458,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -2344635808193036023,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.44232,
+                    59.728768
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15771 (86448) - ООО \"РТС\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15771 (86448) - ООО \"РТС\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Пушкин г., Автомобильная ул., д.4, литера А2</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">247</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15771 (86448) - ООО \"РТС\"",
+                "quantity": 247,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6173311981712079011,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.071661,
+                    59.751134
+                ]
+            },
+            "properties": {
+                "clusterCaption": "10637 (66506) - ООО \"ЦДК\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">10637 (66506) - ООО \"ЦДК\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Геологическая ул., 75, литера Е</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> O3,O4,O2,M2,M3,N1,L,M1,O1,N3,N2</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">627</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "10637 (66506) - ООО \"ЦДК\"",
+                "quantity": 627,
+                "markerType": "other",
+                "categories": "O3,O4,O2,M2,M3,N1,L,M1,O1,N3,N2"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2385757424974716028,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.443889,
+                    59.963333
+                ]
+            },
+            "properties": {
+                "clusterCaption": "7551 (48533) - ООО \"АВТО-КОНТРОЛЬ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">7551 (48533) - ООО \"АВТО-КОНТРОЛЬ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Революции ш., д.58а, лит.Ж</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1,M2,M3,N1,N2,N3</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">92</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "7551 (48533) - ООО \"АВТО-КОНТРОЛЬ\"",
+                "quantity": 92,
+                "markerType": "other",
+                "categories": "M1,M2,M3,N1,N2,N3"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5303113929625049626,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.415649,
+                    59.985937
+                ]
+            },
+            "properties": {
+                "clusterCaption": "11788 (79686) - ООО \"Техавтоэксперт\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">11788 (79686) - ООО \"Техавтоэксперт\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 195273, Санкт-Петербург г., Мечникова пр-кт., д.17/19</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">709</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "11788 (79686) - ООО \"Техавтоэксперт\"",
+                "quantity": 709,
+                "markerType": "other",
+                "categories": "L,M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -6768278842103816165,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.320827,
+                    60.076875
+                ]
+            },
+            "properties": {
+                "clusterCaption": "11788 (85408) - ООО \"Техавтоэксперт\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">11788 (85408) - ООО \"Техавтоэксперт\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, п.Парголово, Торфяное, ул.Парнасная, д.2, литер А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">671</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "11788 (85408) - ООО \"Техавтоэксперт\"",
+                "quantity": 671,
+                "markerType": "other",
+                "categories": "L,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1339535834667570666,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607438,
+                    59.771036
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15995 (86765) - ООО \"ВИКИНГ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15995 (86765) - ООО \"ВИКИНГ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Колпино г., Севастьянова ул., д.24, литера А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">69</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15995 (86765) - ООО \"ВИКИНГ\"",
+                "quantity": 69,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -7811983580185038592,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.42803028,
+                    60.04047
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15990 (86759) - ООО \"ГТК-77\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15990 (86759) - ООО \"ГТК-77\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 195299, Город Санкт-Петербург., Гражданский пр-кт, д.131</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> Tm,Tb</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">300</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15990 (86759) - ООО \"ГТК-77\"",
+                "quantity": 300,
+                "markerType": "other",
+                "categories": "Tm,Tb"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -410217205530868477,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.284604,
+                    59.861679
+                ]
+            },
+            "properties": {
+                "clusterCaption": "11788 (86932) - ООО \"Техавтоэксперт\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">11788 (86932) - ООО \"Техавтоэксперт\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 198152, г.Санкт-Петербург., ул.Краснопутиловская, д.67, лит.А, пом.1-Н, 2-Н,3-Н,</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">523</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "11788 (86932) - ООО \"Техавтоэксперт\"",
+                "quantity": 523,
+                "markerType": "other",
+                "categories": "L,M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -4588443137275051982,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.338764,
+                    59.886732
+                ]
+            },
+            "properties": {
+                "clusterCaption": "10706 (67410) - ООО \"ГТО-ТехСервис\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">10706 (67410) - ООО \"ГТО-ТехСервис\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Люботинский пр-кт., дом 8, литера В</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1,M3,M2,N1,O1,O2,O4,N3,O3,N2</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">415</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "10706 (67410) - ООО \"ГТО-ТехСервис\"",
+                "quantity": 415,
+                "markerType": "other",
+                "categories": "M1,M3,M2,N1,O1,O2,O4,N3,O3,N2"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235064198319331822,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.433319,
+                    59.898365
+                ]
+            },
+            "properties": {
+                "clusterCaption": "11788 (83932) - ООО \"Техавтоэксперт\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">11788 (83932) - ООО \"Техавтоэксперт\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, Санкт-Петербург г., Обуховской Обороны пр-кт., д.76, литера Н</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">69</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "11788 (83932) - ООО \"Техавтоэксперт\"",
+                "quantity": 69,
+                "markerType": "other",
+                "categories": "L,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -4636237239721232403,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.474873,
+                    59.891223
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14911 (85004) - ООО \"АКСЕЛЬ-СИТИ НЕВСКИЙ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14911 (85004) - ООО \"АКСЕЛЬ-СИТИ НЕВСКИЙ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г.Санкт-Петербург, ул.Тельмана, д.29, литера А</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">1</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14911 (85004) - ООО \"АКСЕЛЬ-СИТИ НЕВСКИЙ\"",
+                "quantity": 1,
+                "markerType": "other",
+                "categories": "M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5408534875029368143,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.55062,
+                    59.753337
+                ]
+            },
+            "properties": {
+                "clusterCaption": "16167 (87045) - ООО \"Арженвет\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">16167 (87045) - ООО \"Арженвет\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, г.Колпино, ул.Финляндская, д.30, к.1, стр.2</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">375</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "16167 (87045) - ООО \"Арженвет\"",
+                "quantity": 375,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -4425610391781063483,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.287962,
+                    59.996136
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15990 (86758) - ООО \"ГТК-77\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15990 (86758) - ООО \"ГТК-77\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Санкт-Петербург Город, 197348, Санкт-Петербург г., Аэродромная ул., 12, лит.В</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> Tb</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">54</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15990 (86758) - ООО \"ГТК-77\"",
+                "quantity": 54,
+                "markerType": "other",
+                "categories": "Tb"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -7986812182195884419,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.104078,
+                    59.902677
+                ]
+            },
+            "properties": {
+                "clusterCaption": "13744 (82587) - ООО \"Ленинградская АЭС-АВТО\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">13744 (82587) - ООО \"Ленинградская АЭС-АВТО\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, г.о. Сосновоборский, г. Сосновоборский Бор, ул. Молодежная, зд. №2а, лит.Д</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">15</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "13744 (82587) - ООО \"Ленинградская АЭС-АВТО\"",
+                "quantity": 15,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -6300191452512047722,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.297559,
+                    60.090328
+                ]
+            },
+            "properties": {
+                "clusterCaption": "13294 (81800) - ИП Миршарипов Д. А.",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">13294 (81800) - ИП Миршарипов Д. А.</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Волховский р-н., Новая Ладога г., Промышленная ул., зд. 1</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">49</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "13294 (81800) - ИП Миршарипов Д. А.",
+                "quantity": 49,
+                "markerType": "other",
+                "categories": "L,M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1308677254640853408,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.128102,
+                    61.022243
+                ]
+            },
+            "properties": {
+                "clusterCaption": "9691 (61102) - ООО \"РУСАВТО\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">9691 (61102) - ООО \"РУСАВТО\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Приозерский р-н., Приозерск г., Ленинградское ш., д.33а</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> O4,O3,O2,L,O1,N3,N2,N1,M3,M2,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">225</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "9691 (61102) - ООО \"РУСАВТО\"",
+                "quantity": 225,
+                "markerType": "other",
+                "categories": "O4,O3,O2,L,O1,N3,N2,N1,M3,M2,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -8123862065674485764,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.864797,
+                    59.549691
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15150 (85391) - ИП Тисной Д. М.",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15150 (85391) - ИП Тисной Д. М.</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, м.р-н Тосненский, г.п.Тосненское, г.Тосно, ул.Рабочая, д.7б, стр.1</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">186</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15150 (85391) - ИП Тисной Д. М.",
+                "quantity": 186,
+                "markerType": "other",
+                "categories": "L,M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -8973304489390180537,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.605947,
+                    59.718699
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14028 (83178) - ООО \"АВТОТЕХ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14028 (83178) - ООО \"АВТОТЕХ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Тосненский м.р-н, Тельмановское сп., Тельмана п., д.60, стр.23</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">115</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14028 (83178) - ООО \"АВТОТЕХ\"",
+                "quantity": 115,
+                "markerType": "other",
+                "categories": "L,M1,N1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -2580080333940808206,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.087223,
+                    59.787974
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14256 (85624) - ООО \"МЛ-ТЕХ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14256 (85624) - ООО \"МЛ-ТЕХ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Ломоносовский м.р-н, г.п. Аннинское, 188505, д.Пески, территория Общественно-деловая зона</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">488</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14256 (85624) - ООО \"МЛ-ТЕХ\"",
+                "quantity": 488,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -1129630151148042524,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.999,
+                    59.88175
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12577 (80825) - ООО \"КАДЦ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12577 (80825) - ООО \"КАДЦ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Кировский р-н., 187342, Кировск г., Ладожская ул., 5б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">363</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12577 (80825) - ООО \"КАДЦ\"",
+                "quantity": 363,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -5237988561361094228,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.37475,
+                    59.616963
+                ]
+            },
+            "properties": {
+                "clusterCaption": "6532 (34396) - ООО \"БиТ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">6532 (34396) - ООО \"БиТ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Гатчинский р-н., Коммунар г., Строителей ул., 4а</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M3,N1,N2,M2,O4,O3,M1,N3,O2,O1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">137</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "6532 (34396) - ООО \"БиТ\"",
+                "quantity": 137,
+                "markerType": "other",
+                "categories": "L,M3,N1,N2,M2,O4,O3,M1,N3,O2,O1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -7601653270256118081,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.140191,
+                    59.590422
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12004 (80009) - ООО \"Паритет\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12004 (80009) - ООО \"Паритет\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Гатчинский р-н., 188300, Вайялово промзона., Красносельское шоссе ул., 4, 4</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">401</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12004 (80009) - ООО \"Паритет\"",
+                "quantity": 401,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8577227166768223744,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.867812,
+                    58.776747
+                ]
+            },
+            "properties": {
+                "clusterCaption": "13827 (82751) - ИП Алдашкин В. В.",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">13827 (82751) - ИП Алдашкин В. В.</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Лужский р-н, Лужское г.п., Луга г., Ленинградское ш., д.40/4</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">337</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "13827 (82751) - ИП Алдашкин В. В.",
+                "quantity": 337,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2094913763642659230,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.499514,
+                    60.008388
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14328 (86077) - ООО \"Техосмотр\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14328 (86077) - ООО \"Техосмотр\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Всеволожский м.р-н, Муринское г.п., г.Мурино, ул.Челябинская, участок 160</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">208</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14328 (86077) - ООО \"Техосмотр\"",
+                "quantity": 208,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -2254505463549120221,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.626269,
+                    60.032387
+                ]
+            },
+            "properties": {
+                "clusterCaption": "418 (28904) - ООО \"ВАДЦ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">418 (28904) - ООО \"ВАДЦ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Всеволожский р-н., 188640, Всеволожск г., Дорога Жизни ш., 9</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1,M2,M3,N1,N2,N3,L,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">435</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "418 (28904) - ООО \"ВАДЦ\"",
+                "quantity": 435,
+                "markerType": "other",
+                "categories": "M1,M2,M3,N1,N2,N3,L,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8457945810737100525,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.022944,
+                    59.465221
+                ]
+            },
+            "properties": {
+                "clusterCaption": "11523 (79293) - ИП Рожкова А. П.",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">11523 (79293) - ИП Рожкова А. П.</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Киришский р-н., Кириши г., Энтузиастов ш., 6</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">272</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "11523 (79293) - ИП Рожкова А. П.",
+                "quantity": 272,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -2920705108474115915,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.103087,
+                    59.888654
+                ]
+            },
+            "properties": {
+                "clusterCaption": "5477 (31595) - ООО \"САЦ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">5477 (31595) - ООО \"САЦ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Сосновый Бор г., Мира ул., 1</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> O4,O3,O2,O1,N3,N2,N1,M3,M2,M1,L</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">311</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "5477 (31595) - ООО \"САЦ\"",
+                "quantity": 311,
+                "markerType": "other",
+                "categories": "O4,O3,O2,O1,N3,N2,N1,M3,M2,M1,L"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -3691853978318388937,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.718713,
+                    60.721115
+                ]
+            },
+            "properties": {
+                "clusterCaption": "10454 (65301) - ИП Гусев И. В.",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">10454 (65301) - ИП Гусев И. В.</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Выборгский р-н., 188800, Выборг г., Батальонная ул., д 1</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">241</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "10454 (65301) - ИП Гусев И. В.",
+                "quantity": 241,
+                "markerType": "other",
+                "categories": "M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -9145629825903684062,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.077524,
+                    59.799737
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14328 (86323) - ООО \"Техосмотр\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14328 (86323) - ООО \"Техосмотр\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Ломоносовский МО, Аннинское гп, тер.Промышленная зона Кинг, з/у 5</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">475</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14328 (86323) - ООО \"Техосмотр\"",
+                "quantity": 475,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3672334189710309471,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.565146,
+                    59.641953
+                ]
+            },
+            "properties": {
+                "clusterCaption": "424 (32794) - ИП Котов О. Ю.",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">424 (32794) - ИП Котов О. Ю.</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Тихвинский р-н., Тихвин г., Карла Маркса ул., 70</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">222</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "424 (32794) - ИП Котов О. Ю.",
+                "quantity": 222,
+                "markerType": "other",
+                "categories": "L,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -8541641094446308765,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.810498,
+                    60.689545
+                ]
+            },
+            "properties": {
+                "clusterCaption": "13258 (81754) - ООО \"Выборгский технический центр\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">13258 (81754) - ООО \"Выборгский технический центр\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Выборгский р-н., 188800, Выборг г., Ленинградское ш., 78</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">173</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "13258 (81754) - ООО \"Выборгский технический центр\"",
+                "quantity": 173,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -4075168035327724190,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.810767,
+                    60.698229
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15208 (85490) - ООО \"ВЫБОРГ-КОНТРОЛЬ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15208 (85490) - ООО \"ВЫБОРГ-КОНТРОЛЬ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Выборгский р-н., 188800, Выборг г., Промышленная ул., д.4б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">176</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15208 (85490) - ООО \"ВЫБОРГ-КОНТРОЛЬ\"",
+                "quantity": 176,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -2660942551439753796,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.147363,
+                    59.537276
+                ]
+            },
+            "properties": {
+                "clusterCaption": "428 (28914) - ООО \"ЦОБДД\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">428 (28914) - ООО \"ЦОБДД\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Гатчинский р-н., Пригородный п., Зеленая ул., 1а, 1</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M2,N2,M3,N1,O3,L,M1,N3,O1,O4,O2</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">804</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "428 (28914) - ООО \"ЦОБДД\"",
+                "quantity": 804,
+                "markerType": "other",
+                "categories": "M2,N2,M3,N1,O3,L,M1,N3,O1,O4,O2"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -7213682575779710148,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.406148,
+                    60.069766
+                ]
+            },
+            "properties": {
+                "clusterCaption": "11983 (79980) - ООО \"Эксперт-Диагностика\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">11983 (79980) - ООО \"Эксперт-Диагностика\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Всеволожский м.р-н, 188660, Бугровское с/п, п.Бугры, Гаражный проезд, д.1</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">900</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "11983 (79980) - ООО \"Эксперт-Диагностика\"",
+                "quantity": 900,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3762137021067165641,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.180811,
+                    59.516654
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14071 (83706) - ООО \"Пикалевский ЦБДД\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14071 (83706) - ООО \"Пикалевский ЦБДД\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, м.р-н Бокситогорский, гп. Пикалёвское, г. Пикалево, ул. Строительная, д. 9а</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">107</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14071 (83706) - ООО \"Пикалевский ЦБДД\"",
+                "quantity": 107,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2696631498673650818,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.498592,
+                    59.674353
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12068 (80126) - ООО \"Трасса\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12068 (80126) - ООО \"Трасса\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Тихвинский р-н., 187550, Тихвин г., Советская ул., 173</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">120</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12068 (80126) - ООО \"Трасса\"",
+                "quantity": 120,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3511412353746111717,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.628172,
+                    59.376049
+                ]
+            },
+            "properties": {
+                "clusterCaption": "5429 (31534) - ООО \"БОНАКС\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">5429 (31534) - ООО \"БОНАКС\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Кингисеппский р-н., Кингисепп г., 4-й проезд., 1</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M3,O2,O4,O1,O3,N2,M1,M2,N1,N3</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">512</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "5429 (31534) - ООО \"БОНАКС\"",
+                "quantity": 512,
+                "markerType": "other",
+                "categories": "L,M3,O2,O4,O1,O3,N2,M1,M2,N1,N3"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -92368248942260885,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.355245,
+                    59.906823
+                ]
+            },
+            "properties": {
+                "clusterCaption": "461 (28948) - ООО \"Техосмотр\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">461 (28948) - ООО \"Техосмотр\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Волховский р-н., 187403, Волхов г., Маяковского ул., 10</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> N1,N3,M2,M3,L,N2,O4,M1,O3,O2,O1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">312</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "461 (28948) - ООО \"Техосмотр\"",
+                "quantity": 312,
+                "markerType": "other",
+                "categories": "N1,N3,M2,M3,L,N2,O4,M1,O3,O2,O1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -2745241855429245560,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.835532,
+                    59.567187
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12337 (80527) - ООО \"АМЕН ЧЕККАР\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12337 (80527) - ООО \"АМЕН ЧЕККАР\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Тосненский р-н., Тосно г., Московское ш., 2б, 4</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">163</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12337 (80527) - ООО \"АМЕН ЧЕККАР\"",
+                "quantity": 163,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -5429871632479380671,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.537894,
+                    59.665445
+                ]
+            },
+            "properties": {
+                "clusterCaption": "6529 (34564) - ООО \"ЭКСПЕРТМОБИЛ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">6529 (34564) - ООО \"ЭКСПЕРТМОБИЛ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Тосненский м.р-н, Федоровское г.п., г.п.Фёдоровское, ул.Почтовая, д.18, корп.2</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> O4,O3,O2,O1,N3,N2,N1,M3,M2,M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">293</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "6529 (34564) - ООО \"ЭКСПЕРТМОБИЛ\"",
+                "quantity": 293,
+                "markerType": "other",
+                "categories": "O4,O3,O2,O1,N3,N2,N1,M3,M2,M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6794621400419019847,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.049546,
+                    59.448014
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12433 (80660) - ООО \"Полесье\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12433 (80660) - ООО \"Полесье\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Киришский р-н., Кириши г., Победы пр-кт., 28а</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,O1,O2</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">121</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12433 (80660) - ООО \"Полесье\"",
+                "quantity": 121,
+                "markerType": "other",
+                "categories": "L,M1,N1,O1,O2"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7572847487581169823,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.891575,
+                    61.094845
+                ]
+            },
+            "properties": {
+                "clusterCaption": "10767 (68383) - ООО \"ПУСК\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">10767 (68383) - ООО \"ПУСК\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Выборгский р-н., Светогорск г., Победы ул., зд.77а</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> O4,O3,L,M1,M2,M3,N1,O2,N2,N3,O1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">59</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "10767 (68383) - ООО \"ПУСК\"",
+                "quantity": 59,
+                "markerType": "other",
+                "categories": "O4,O3,L,M1,M2,M3,N1,O2,N2,N3,O1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -5935221964171939691,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.477652,
+                    59.434691
+                ]
+            },
+            "properties": {
+                "clusterCaption": "426 (28913) - ООО \"Глория\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">426 (28913) - ООО \"Глория\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Волосовский р-н., 188410, Волосово г., Строителей ул., 25</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M3,M2,N1,N2,O3,O4,N3,O2,M1,L,O1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">227</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "426 (28913) - ООО \"Глория\"",
+                "quantity": 227,
+                "markerType": "other",
+                "categories": "M3,M2,N1,N2,O3,O4,N3,O2,M1,L,O1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -2416437562202072449,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.125242,
+                    59.098966
+                ]
+            },
+            "properties": {
+                "clusterCaption": "432 (28918) - ООО \"Иванов и К\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">432 (28918) - ООО \"Иванов и К\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Сланцевский р-н., Сланцы г., Автомобилистов пер., д.2</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M2,M3,L,N1,O4,N3,N2,O3,O2,M1,O1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">291</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "432 (28918) - ООО \"Иванов и К\"",
+                "quantity": 291,
+                "markerType": "other",
+                "categories": "M2,M3,L,N1,O4,N3,N2,O3,O2,M1,O1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2138197222395907774,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.652924,
+                    59.668237
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12728 (81011) - ООО \"ТЕХЦЕНТРЫ СОТРАНС\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12728 (81011) - ООО \"ТЕХЦЕНТРЫ СОТРАНС\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Тосненский р-н., Красный Бор гп., Промышленная ул., 3</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">109</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12728 (81011) - ООО \"ТЕХЦЕНТРЫ СОТРАНС\"",
+                "quantity": 109,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -6773801561938673654,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.154485,
+                    60.90731
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14743 (84654) - ООО \"ПФ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14743 (84654) - ООО \"ПФ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, м.р-н Подпорожский, Подпорожское г.п., г.Подпорожье, ул.Комсомольская, д.18</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">121</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14743 (84654) - ООО \"ПФ\"",
+                "quantity": 121,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2415653429913085359,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.304444,
+                    60.09606
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14328 (85842) - ООО \"Техосмотр\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14328 (85842) - ООО \"Техосмотр\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Всеволожский м. р-н, Бугровское с.п., д. Порошкино, ул. Богородская, з/у 3Б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">195</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14328 (85842) - ООО \"Техосмотр\"",
+                "quantity": 195,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7826233455986760633,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.475084,
+                    60.034594
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14320 (85127) - ООО \"Демиург\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14320 (85127) - ООО \"Демиург\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, м.р-н Всеволожский, гп Муринское, производственная зона \"Мурино\", проезд Южный, з/у 1</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">3</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14320 (85127) - ООО \"Демиург\"",
+                "quantity": 3,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2600208598176002681,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.581321,
+                    60.725913
+                ]
+            },
+            "properties": {
+                "clusterCaption": "12899 (82890) - ООО \"ЛОДАС\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">12899 (82890) - ООО \"ЛОДАС\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Лодейнопольский р-н., 187700, Лодейное Поле г., Имени Дмитрия Арсенова ул., 1а, 9</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">247</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "12899 (82890) - ООО \"ЛОДАС\"",
+                "quantity": 247,
+                "markerType": "other",
+                "categories": "M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7559984999960320313,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.062785,
+                    59.907254
+                ]
+            },
+            "properties": {
+                "clusterCaption": "16010 (86860) - ООО \"Техосмотр\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">16010 (86860) - ООО \"Техосмотр\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Кировский р-н, г.п.Синявино, пер.Садовый, д.7а</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">101</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "16010 (86860) - ООО \"Техосмотр\"",
+                "quantity": 101,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -6499185542772229284,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.217125,
+                    60.559635
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15148 (85389) - АО \"Сосновоагроснаб\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15148 (85389) - АО \"Сосновоагроснаб\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Приозерский р-н, 188731, п. Сосново, ул. Механизаторов, д.11</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">118</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15148 (85389) - АО \"Сосновоагроснаб\"",
+                "quantity": 118,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8512744108837444846,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.765044,
+                    60.01883
+                ]
+            },
+            "properties": {
+                "clusterCaption": "15946 (86688) - ООО \"СИТИЭКСПЕРТ\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">15946 (86688) - ООО \"СИТИЭКСПЕРТ\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Всеволожский м.р-н, Щегловское с.п., тер.Производственная, ул.Испытателей, д.5</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">33</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "15946 (86688) - ООО \"СИТИЭКСПЕРТ\"",
+                "quantity": 33,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": -8850799501355328893,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.523111,
+                    59.851176
+                ]
+            },
+            "properties": {
+                "clusterCaption": "14323 (86842) - ООО \"Автотехосмотр\"",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">14323 (86842) - ООО \"Автотехосмотр\"</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, Всеволожский м.р-н, г.п.Свердловское, д.Новосаратовка, ул.Покровская дорога, з/у 5Б</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">328</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "14323 (86842) - ООО \"Автотехосмотр\"",
+                "quantity": 328,
+                "markerType": "other",
+                "categories": "L,M1,N1,N2,M2,M3,N3,O1,O2,O3,O4"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3895956769715574862,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.799562,
+                    60.695407
+                ]
+            },
+            "properties": {
+                "clusterCaption": "11571 (79359) - ИП Оконешников Е. В.",
+                "balloonContentBody": "<div style=\"font-size:16px; font-weight:bold; margin:2px 0;\">11571 (79359) - ИП Оконешников Е. В.</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Адрес:</span> Ленинградская область, г.Выборг, Ленинградское ш., д.60</div><div style=\"font-size:12px; margin:2px 0;\"><span style=\"font-weight:bold;\">Подкатегория:</span> M1</div><div style=\"font-size:14px; font-weight:bold; margin:2px 0;\">Кол-во ДК за месяц: <span style=\"color:green;\">58</span></div>",
+                "balloonContentHeader": "",
+                "hintContent": "11571 (79359) - ИП Оконешников Е. В.",
+                "quantity": 58,
+                "markerType": "other",
+                "categories": "M1"
+            },
+            "options": {
+                "preset": "islands#redIcon"
+            }
+        }
+    ]
+}
